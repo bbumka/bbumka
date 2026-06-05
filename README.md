@@ -1,3 +1,4 @@
+                     Listen , travel, focus on coding
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNxeGw2N2Z4bHRqY3FwMnczOHRnbXVzdWU4eThkazZ6MjcyYnh3OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4CT0HDGW75DSDOdxZR/giphy.gif" width="100" alt="Sticker 1">
   &nbsp;&nbsp;&nbsp;&nbsp;
