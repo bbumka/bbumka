@@ -5,8 +5,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE5YzduNnY5NnM4emVpMWg3aDZwYnE1NzE3Y29iOXk1Z3VkdmdwdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lPG2LmtRec8JHfTj5J/giphy.gif" width="100" alt="Sticker 2">
 </p>
 
-Listen , travel, coding , 
-I am a passionate developer currently based in Tokyo, Japan. 🚀
+                           <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5vOHVuaXB0ZjFvMnA3b3RyNzdya2ZtaDBzcTJ3OTVqd2V4MjlwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WUZd5lfcLtZB8a6cW2/giphy.gif" width="100" alt="New Sticker">
+</p>
 
 - 🔭 I’m currently working on web development projects using PHP and JavaScript.
 - 
