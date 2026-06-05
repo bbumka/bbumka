@@ -7,4 +7,4 @@ I am a passionate developer currently based in Tokyo, Japan. 🚀
 - 📫 How to reach me: bbumka953@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy building tools that solve real-world problems!
-![sticker] (https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNxeGw2N2Z4bHRqY3FwMnczOHRnbXVzdWU4eThkazZ6MjcyYnh3OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4CT0HDGW75DSDOdxZR/giphy.gif)
+![School Management System](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNxeGw2N2Z4bHRqY3FwMnczOHRnbXVzdWU4eThkazZ6MjcyYnh3OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4CT0HDGW75DSDOdxZR/giphy.gif)
