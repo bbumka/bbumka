@@ -6,7 +6,7 @@
 </p>
 
                            <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5vOHVuaXB0ZjFvMnA3b3RyNzdya2ZtaDBzcTJ3OTVqd2V4MjlwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WUZd5lfcLtZB8a6cW2/giphy.gif" width="100" alt="New Sticker">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWF0azhoY2xrczVpMXR0OWp5dzl0dnpmNzRvMzR5d2lieWZkcXk0dyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/L3R2xxwHfA9m87FDaH/giphy.gif" alt="Centered Animation">
 </p>
 
 - 🔭 I’m currently working on web development projects using PHP and JavaScript.
