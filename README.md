@@ -1,4 +1,4 @@
-## Hi there 👋
+Listen , travel, coding , 
 I am a passionate developer currently based in Tokyo, Japan. 🚀
 - 🔭 I’m currently working on web development projects using PHP and JavaScript.
 - 🌱 I’m currently learning more about modern web frameworks and database management.
@@ -8,6 +8,4 @@ I am a passionate developer currently based in Tokyo, Japan. 🚀
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy building tools that solve real-world problems!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТаныGitHubНэр&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ТаныGitHubНэр&layout=compact&theme=radical)
+https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHhsMGRsd2w1bnM0cnlvYXB2bmplYjEzYXJxNnZiY3NuNWQ3eHdiZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3pHrwP0Lg9t8NqiLWY/giphy.gif
