@@ -8,5 +8,5 @@ I am a passionate developer currently based in Tokyo, Japan. 🚀
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy building tools that solve real-world problems!
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3pHrwP0Lg9t8NqiLWY/giphy.gif" />
+  <img src="https://https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNxeGw2N2Z4bHRqY3FwMnczOHRnbXVzdWU4eThkazZ6MjcyYnh3OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4CT0HDGW75DSDOdxZR/giphy.gif />
 </p>
